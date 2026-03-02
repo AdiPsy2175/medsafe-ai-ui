@@ -60,8 +60,38 @@ replace professional medical consultation.
 ---
 
 ## 👤 Contribution
-**Aditya Kumar Pansary**
-- Streamlit UI implementation
-- User interaction logic
-- Testing documentation
-- Cloud deployment
+
+### **Abhishek Raj (Team Lead)** - Team Lead & Backend Developer
+- Milestone 1: Environment setup and dependency configuration
+- Milestone 2: Core logic implementation and AI-style reasoning design
+- Project coordination and final submission oversight
+
+### **Aditya Kumar Pansary** — Frontend & Deployment Developer
+- Milestone 3: Streamlit UI implementation and user interaction
+- Milestone 4: Testing documentation and cloud deployment
+- Integration support and project documentation updates
+
+---
+
+## 🧱 Project Milestones
+
+### Milestone 1: Environment Setup
+- Documented development and deployment environment
+- Dependency management using `requirements.txt`
+- Setup instructions available in `setup/environment.md`
+
+### Milestone 2: Core Logic & AI Reasoning
+- Implemented rule-based medicine interaction logic
+- Developed symptom and side-effect analysis module
+- Added AI-style explanation generator (mocked, academic-safe)
+- Backend modules located in the `backend/` directory
+
+### Milestone 3: UI Implementation & User Interaction
+- Streamlit-based interactive user interface
+- Medicine interaction checker and symptom guidance UI
+- User input validation and clear feedback messages
+
+### Milestone 4: Testing, Optimization & Deployment
+- Manual test cases documented
+- Application deployed on Streamlit Community Cloud
+- Live demo link provided
