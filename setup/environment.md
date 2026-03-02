@@ -43,3 +43,16 @@ streamlit run app.py
 The application is deployed using **Streamlit Community Cloud**, which
 automatically installs dependencies and hosts the application directly
 from the connected GitHub repository.
+
+
+---
+
+## Dependency Management
+
+This project uses a minimal dependency approach.
+All required packages are listed in the `requirements.txt` file.
+
+- `streamlit` is used for building the web-based user interface
+- No additional external libraries are required for core functionality
+
+This ensures easy setup, faster deployment, and reduced environment complexity.
