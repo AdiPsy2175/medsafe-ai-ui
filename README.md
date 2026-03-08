@@ -10,7 +10,7 @@ as part of the *Generative AI with Google Cloud* group project.
 ---
 
 ## 🚀 Live Demo
-🔗 https://medsafe-ai-ui.streamlit.app](https://drive.google.com/file/d/1T8Bghkdftmnprq4RVilfQfepA4QljWc_/view?usp=sharing
+🔗 https://drive.google.com/file/d/1T8Bghkdftmnprq4RVilfQfepA4QljWc_/view?usp=sharing
 
 ---
 
