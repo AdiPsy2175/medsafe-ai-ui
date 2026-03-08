@@ -15,7 +15,7 @@ as part of the *Generative AI with Google Cloud* group project.
 https://drive.google.com/file/d/1T8Bghkdfmtnprq4RVilfQfepA4QIjWc_/view?usp=sharing
 
 🌐 **Live Application (Streamlit):**  
-https://your-streamlit-app-url.streamlit.app
+https://medsafe-ai-ui.streamlit.app/
 
 ---
 
